@@ -20,7 +20,7 @@ public class OrderListener {
     this.ui = ui;
   }
 
-  //@JmsListener(destination = "queueTaco")
+  @JmsListener(destination = "queueTaco")
   public void receiveOrder(TacoOrder order) {
     ui.displayOrder(order);
   }

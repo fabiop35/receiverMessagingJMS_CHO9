@@ -14,6 +14,7 @@ public class KitchenUI {
         // TODO: Beef this up to do more than just log the received taco.
         //       To display it in some sort of UI.
         log.info("》》》RECEIVED ORDER UI:  " + order);
+        log.info("Order sent to the UI");
     }
 
 }

@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 import org.springframework.jms.support.converter.MappingJackson2MessageConverter;
 
-import com.sia.jms.receiver.entities.TacoOrder;
+import com.sia.entities.TacoOrder;
 
 @Configuration
 //@Profile({"jms-template", "jms-listener"})

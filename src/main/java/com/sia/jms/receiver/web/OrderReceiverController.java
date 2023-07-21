@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import lombok.RequiredArgsConstructor;
 
 import com.sia.jms.receiver.OrderReceiver;
-import com.sia.jms.receiver.entities.TacoOrder;
+import com.sia.entities.TacoOrder;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

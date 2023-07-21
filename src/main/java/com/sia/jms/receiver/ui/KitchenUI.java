@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 import lombok.extern.slf4j.Slf4j;
 
-import com.sia.jms.receiver.entities.TacoOrder;
+import com.sia.entities.TacoOrder;
 
 @Component
 @Slf4j

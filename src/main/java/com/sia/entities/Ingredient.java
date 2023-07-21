@@ -1,4 +1,4 @@
-package com.sia.jms.receiver.entities;
+package com.sia.entities;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,7 +1,7 @@
 package com.sia.jms.receiver;
 
 import org.springframework.jms.support.converter.MessageConverter;
-import com.sia.jms.receiver.entities.TacoOrder;
+import com.sia.entities.TacoOrder;
 import javax.jms.JMSException;
 import javax.jms.Message;
 import lombok.extern.slf4j.Slf4j;

@@ -1,4 +1,4 @@
-package com.sia.jms.receiver.entities;
+package com.sia.entities;
 
 import java.util.ArrayList;
 import java.util.Date;
